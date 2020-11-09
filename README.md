@@ -1,4 +1,8 @@
 ### Hi there 👋
+##- 🔭 I’m currently working on the [Microverse](https://micorverse.com) Remote Full Stack Software developer curriculum
+##-   I'm currently learning HTML&CSS
+##-   The Ruby, Ruby on Rails, JavaScript, React&Redux
+
 
 <!--
 **kimothokamau/kimothokamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
