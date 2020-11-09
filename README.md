@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I’m currently working on the [Microverse](https://micorverse.com) Remote Full Stack Software developer curriculum
+- I’m currently a student at [Microverse](https://micorverse.com) remote full stack software developer bootcamp
 - I'm currently learning HTML&CSS
 - Then Ruby, Ruby on Rails, JavaScript, React&Redux
 
