@@ -2,7 +2,7 @@
 - I’m currently a student at [Microverse](https://micorverse.com) remote full stack software developer bootcamp
 - I'm currently learning HTML&CSS
 - Then Ruby, Ruby on Rails, JavaScript, React&Redux
-- I have a strong background in the TCP/IP stack and SIP for VoIP
+- I have a strong background in networks, TCP/IP, SIP and VoIP
 
 
 <!--
