@@ -2,6 +2,7 @@
 - I’m currently a student at [Microverse](https://micorverse.com) remote full stack software developer bootcamp
 - My skill stack is HTML/CSS, JavaScript, React, Nodejs, Ruby, Rails
 - Currently diving deep in javascript and react
+- Before programming I was doing Telcommunications engineering, VoIP
 
 
 
