@@ -2,7 +2,9 @@
 - I’m currently a student at [Microverse](https://micorverse.com) remote full stack software developer bootcamp
 - I'm currently learning JavaScript and React
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimothokamau)](https://github.com/kimothokamau/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimothokamau&show_icons=true&theme=radical)
+)
+)](https://github.com/kimothokamau/github-readme-stats)
 
 
 
