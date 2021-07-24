@@ -1,7 +1,7 @@
 ### Hi there :wave:
 - I’m currently a student at [Microverse](https://micorverse.com) remote full stack software developer bootcamp
-- I'm currently learning JavaScript and React
-- I modify and make modern web applications
+- My skill stack is HTML/CSS, JavaScript, React, Nodejs, Ruby, Rails
+- Currently diving deep in javascript and react
 
 
 
